@@ -5,91 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd7a5dca-445c-4dcd-be2f-0148e565ff8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day0/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day1/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day1/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day1/Task3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day1/Task4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day1/Task5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day1/Task6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day11/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day12/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day12/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day12/task3/Task3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day12/task4/Task4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day12/task5/Task5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day13/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day14/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day14/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day14/Task3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day15/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day16/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day16/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day17/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day17/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day18/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day18/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day2/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day2/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day2/Task3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day2/Task4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day3/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day3/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day3/Task3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day4/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day4/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day4/Task3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day4/Task4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day5/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day5/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day6/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day6/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day6/Task3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day7/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day7/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day8/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day8/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day9/Task1/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/day9/Task2/TestFigures.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/shoes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/D14T1_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/D14T1_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/D14T2_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/D14T2_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/D16T1_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Tests/AbstractTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Tests/day1/Day1Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Tests/day2/Day2Task1Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Tests/day2/Day2Task2Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Tests/day2/Day2Task3Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Tests/day2/Day2Task4Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaMarathon2020.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day0/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day0/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day1/Day1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day1/Day1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task3Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day3/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day3/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day3/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day3/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day3/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task3Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,38 +41,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day2.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day1Test.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day1Test.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day1Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day2Task1Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day2Task2Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day2Task3Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day2Task4Test.Five.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day2Task4Test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/marse/OneDrive/Рабочий стол/JavaM2/JavaMarathon2020&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Task1.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.Task4.executor": "Run",
+    "Application.Task5.executor": "Run",
+    "Application.Task6.executor": "Run",
+    "Application.day2.Task1.executor": "Run",
+    "Application.day3.Task1.executor": "Run",
+    "Application.day3.Task2.executor": "Run",
+    "JUnit.Day1Test.Task1.executor": "Run",
+    "JUnit.Day1Test.Task2.executor": "Run",
+    "JUnit.Day1Test.executor": "Run",
+    "JUnit.Day2Task1Test.executor": "Run",
+    "JUnit.Day2Task2Test.executor": "Run",
+    "JUnit.Day2Task3Test.executor": "Run",
+    "JUnit.Day2Task4Test.Five.executor": "Run",
+    "JUnit.Day2Task4Test.executor": "Run",
+    "JUnit.Day3Task1Test.executor": "Run",
+    "JUnit.Day3Task2Test.ShouldWorkProperly.executor": "Run",
+    "JUnit.Day3Task2Test.executor": "Run",
+    "JUnit.Day3Task3Test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/marse/OneDrive/Рабочий стол/JavaM2/JavaMarathon2020"
   }
-}</component>
-  <component name="RunManager" selected="Application.Task1">
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0.Task1" />
+}]]></component>
+  <component name="RunManager" selected="JUnit.Day3Task3Test">
+    <configuration name="day3.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.Task2" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,70 +86,74 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Task2" />
+    <configuration name="Day3Task1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="Tests.day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Task4" />
-      <module name="JavaMarathon2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day2Task4Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaMarathon2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tests.day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Tests.day2" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day2.Day2Task4Test" />
+      <option name="PACKAGE_NAME" value="Tests.day3" />
+      <option name="MAIN_CLASS_NAME" value="Tests.day3.Day3Task1Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day2Task4Test.Five" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day3Task2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.day2.*" />
+          <option name="PATTERN" value="Tests.day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.day2" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day2.Day2Task4Test" />
-      <option name="METHOD_NAME" value="Five" />
+      <option name="PACKAGE_NAME" value="Tests.day3" />
+      <option name="MAIN_CLASS_NAME" value="Tests.day3.Day3Task2Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day3Task2Test.ShouldWorkProperly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaMarathon2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.day3" />
+      <option name="MAIN_CLASS_NAME" value="Tests.day3.Day3Task2Test" />
+      <option name="METHOD_NAME" value="ShouldWorkProperly" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day3Task3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaMarathon2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.day3" />
+      <option name="MAIN_CLASS_NAME" value="Tests.day3.Day3Task3Test" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="JUnit.Day2Task4Test" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="JUnit.Day2Task4Test.Five" />
+        <item itemvalue="JUnit.Day3Task3Test" />
+        <item itemvalue="JUnit.Day3Task2Test" />
+        <item itemvalue="Application.day3.Task2" />
+        <item itemvalue="JUnit.Day3Task2Test.ShouldWorkProperly" />
+        <item itemvalue="JUnit.Day3Task1Test" />
       </list>
     </recent_temporary>
   </component>
@@ -268,6 +200,15 @@
           <url>file://$PROJECT_DIR$/src/main/java/day2/Task4.java</url>
           <line>9</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task2Test.java</url>
+          <line>11</line>
+          <properties class="Tests.day3.Day3Task2Test" method="ShouldWorkProperly">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
