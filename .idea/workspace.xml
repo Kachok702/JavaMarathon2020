@@ -6,17 +6,28 @@
   <component name="ChangeListManager">
     <list default="true" id="cd7a5dca-445c-4dcd-be2f-0148e565ff8c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day3/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day3/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day3/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day3/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day3/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day4/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day4/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day4/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day4/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day4/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day4/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day4/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day5/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day5/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day5/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day5/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day4/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day4/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day4/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day4/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day4/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day4/Task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day4/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day4/Task4.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,6 +63,8 @@
     "Application.day2.Task1.executor": "Run",
     "Application.day3.Task1.executor": "Run",
     "Application.day3.Task2.executor": "Run",
+    "Application.day5.Task1.executor": "Run",
+    "Application.day5.Task2.executor": "Run",
     "JUnit.Day1Test.Task1.executor": "Run",
     "JUnit.Day1Test.Task2.executor": "Run",
     "JUnit.Day1Test.executor": "Run",
@@ -72,13 +85,13 @@
     "last_opened_file_path": "C:/Users/marse/OneDrive/Рабочий стол/JavaM2/JavaMarathon2020"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.Day3Task3Test">
-    <configuration name="day3.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.Task2" />
+  <component name="RunManager" selected="Application.day5.Task1">
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.Task2" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,74 +99,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day3Task1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.Task3" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.day3.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.day3" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day3.Day3Task1Test" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day3Task2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.Task4" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.day3.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.day3" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day3.Day3Task2Test" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day3Task2Test.ShouldWorkProperly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="day5.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.Task1" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.day3.*" />
+          <option name="PATTERN" value="day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.day3" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day3.Day3Task2Test" />
-      <option name="METHOD_NAME" value="ShouldWorkProperly" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day3Task3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="day5.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.Task2" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.day3.*" />
+          <option name="PATTERN" value="day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.day3" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day3.Day3Task3Test" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Day3Task3Test" />
-        <item itemvalue="JUnit.Day3Task2Test" />
-        <item itemvalue="Application.day3.Task2" />
-        <item itemvalue="JUnit.Day3Task2Test.ShouldWorkProperly" />
-        <item itemvalue="JUnit.Day3Task1Test" />
+        <item itemvalue="Application.day5.Task1" />
+        <item itemvalue="Application.day5.Task2" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +204,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/day2/Task4.java</url>
           <line>9</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/day4/Task3.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task2Test.java</url>
