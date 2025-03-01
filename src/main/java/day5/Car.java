@@ -1,31 +1,20 @@
 package day5;
 
 public class Car {
-
-  private int yearBorn;
+    private int year;
     private String color;
-   private String model;
+    private String model;
 
-
-
-    public void getCharacher(){
-        System.out.println("Ваш автомобиль: " + getModel() + " его цвет: " + getColor() + " " + getYearBorn() + " года выпуска");
+    public int getYear() {
+        return year;
     }
 
-    public int getYearBorn() {
-
-        return yearBorn;
-
-    }
-
-    public void setYearBorn(int yearBorn) {
-        this.yearBorn = yearBorn;
+    public void setYear(int year) {
+        this.year = year;
     }
 
     public String getColor() {
-
-        return color;
-
+                return color;
     }
 
     public void setColor(String color) {
@@ -33,10 +22,14 @@ public class Car {
     }
 
     public String getModel() {
-               return model;
+        return model;
     }
 
     public void setModel(String model) {
         this.model = model;
+    }
+
+    public void getInfo(){
+        System.out.println("Наш автомобиль: " + getModel() + ", его цвет: " + getColor() + " " + getYear() + " года выпуска");
     }
 }

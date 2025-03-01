@@ -1,37 +1,33 @@
 package day6;
 
-import java.util.Scanner;
-
 public class Motorbike {
-    private int yearBorn;
+    private int year;
     private String color;
     private String model;
 
-    Motorbike(int yearBorn, String color, String model) {
-        this.yearBorn = yearBorn;
+    public Motorbike(String model, String color, int year) {
+        this.year = year;
         this.color = color;
         this.model = model;
     }
 
-    public void info() {
+    public int getYear() {
+               return year;
+    }
+
+    public String getColor() {
+              return color;
+    }
+
+    public String getModel() {
+                return model;
+    }
+
+    public void info(){
         System.out.println("Это мотоцикл");
     }
 
-    public int yearDifference(int yearDifference){
-        return Math.abs(yearBorn - yearDifference);
+    public int yearDifference(int number){
+        return Math.abs(number - getYear());
     }
-
-    void getYearBorn() {
-        System.out.println(yearBorn);
-    }
-
-    void getColor() {
-        System.out.println(color);
-    }
-
-    void getModel() {
-        System.out.println(model);
-    }
-
-
 }

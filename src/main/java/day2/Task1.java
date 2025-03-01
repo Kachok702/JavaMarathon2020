@@ -13,7 +13,7 @@ public class Task1 {
             text = "Среднеэтажный дом";
         } else if (x >= 9) {
             text = "Многоэтажный дом";
-        } else if (x <= 0) {
+        } else {
             text = "Ошибка ввода";
         }
         System.out.println(text);

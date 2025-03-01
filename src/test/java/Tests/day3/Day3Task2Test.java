@@ -8,6 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
 public class Day3Task2Test extends AbstractTest {
+
     @Test
     public void ShouldWorkProperly() {
         setInput("1 2\n15 3\n3 0\n");

@@ -1,53 +1,56 @@
 package day6;
 
 import java.util.Random;
-import java.util.concurrent.ThreadLocalRandom;
+
+import static java.lang.Math.random;
 
 public class Teacher {
-    private String name;
-    private String predmet;
+    private String nameTeacher;
+    private String subject;
 
-    public Teacher(String name, String predmet) {
-        this.name = name;
-        this.predmet = predmet;
+    public Teacher(String nameTeacher, String subject) {
+        this.nameTeacher = nameTeacher;
+        this.subject = subject;
+    }
+
+    public String getNameTeacher() {
+        return nameTeacher;
+    }
+
+    public void setNameTeacher(String nameTeacher) {
+        this.nameTeacher = nameTeacher;
+    }
+
+    public String getSubject() {
+        return subject;
+    }
+
+    public void setSubject(String subject) {
+        this.subject = subject;
     }
 
     public void evalute(Student student) {
-        Random random = new Random();
-        int ball = random.nextInt(4) + 2;
-
-        String ocenka = "";
+                int ball = 2 + (int) (Math.random() * 4);
+                String point;
                 switch (ball) {
-            case 2:
-               ocenka = "неудовлетворительно";
-                break;
-            case 3:
-                ocenka = "удовлетворительно";
-                break;
-            case 4:
-                ocenka = "хорошо";
-                break;
-            case 5:
-                ocenka = "отлично";
-                break;
-        }
-        System.out.println("Преподователь " + this.name + " оценил студента с именем " + student.getNameStudent() + " по предмету " + this.predmet + " на оценку " + ocenka + ".");
-    }
+                    case 2:
+                        point = "неудовлеторительно";
+                        break;
+                    case 3:
+                        point = "удовлеторительно";
+                        break;
+                    case 4:
+                        point = "хорошо";
+                        break;
+                    case 5:
+                        point = "отлично";
+                        break;
+                    default:
+                        point = "Ошибка рандома";
+                }
 
+        System.out.println("Преподаватель " + getNameTeacher() + " оценил студента с именем " + student.getNameStudent() +
+                " по предмету " + getSubject() + " на оценку " + point + ".");
 
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public String getPredmet() {
-        return predmet;
-    }
-
-    public void setPredmet(String predmet) {
-        this.predmet = predmet;
     }
 }

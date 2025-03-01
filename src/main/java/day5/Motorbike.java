@@ -1,26 +1,29 @@
 package day5;
 
 public class Motorbike {
-    private int yearBorn;
+    private int year;
     private String color;
     private String model;
 
-    Motorbike(int yearBorn, String color, String model) {
-        this.yearBorn = yearBorn;
+    public Motorbike(String model, String color, int year) {
+        this.year = year;
         this.color = color;
         this.model = model;
     }
 
-
-    void getYearBorn() {
-        System.out.println(yearBorn);
+    public int getYear() {
+               return year;
     }
 
-    void getColor() {
-        System.out.println(color);
+    public String getColor() {
+              return color;
     }
 
-    void getModel() {
-        System.out.println(model);
+    public String getModel() {
+                return model;
+    }
+
+    public void getInfo(){
+        System.out.println("Наш мотоцикл: " + getModel() + ", его цвет: " + getColor() + " " + getYear() + " года выпуска");
     }
 }

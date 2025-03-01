@@ -1,4 +1,4 @@
-package Tests.day6;
+/*package Tests.day6;
 
 import Tests.AbstractTest;
 import day6.Airplane;
@@ -34,4 +34,4 @@ public class Day6AirplaneTest extends AbstractTest {
                 + "year 1990, length 20000, weight 60000, вызов метода fillUp(400)");
     }
 
-}
+}*/

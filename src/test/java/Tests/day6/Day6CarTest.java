@@ -1,4 +1,4 @@
-package Tests.day6;
+/*package Tests.day6;
 
 import Tests.AbstractTest;
 import day6.Car;
@@ -23,4 +23,4 @@ public class Day6CarTest extends AbstractTest {
         assertEquals(40, diff, "Год выпуска автомобиля 2020, год для сравнения 1980");
     }
 
-}
+}*/

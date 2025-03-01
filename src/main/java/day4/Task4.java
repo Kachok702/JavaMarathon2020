@@ -5,17 +5,17 @@ import java.util.Arrays;
 
 public class Task4 {
     public static void main(String[] args) {
-int massiv [] = new int[100];
-int max = 10000;
+int[] massiv = new int[100];
+int max = 1000;
 
         for (int i = 0; i < massiv.length; i++){
             massiv[i] = (int) (Math.random()*(max + 1));
                     }
         System.out.println(Arrays.toString(massiv));
-        int summa = 0;
+        int summa;
         int bolshaSumma = 0;
         int Index = 0;
-        for ( int i = 2; i < massiv.length; i++){
+        for (int i = 2; i < massiv.length; i++){
            summa = massiv[i - 2] + massiv[i - 1] + massiv[i];
            if (bolshaSumma < summa) {
                bolshaSumma = summa;

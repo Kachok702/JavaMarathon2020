@@ -13,7 +13,6 @@ public class Task2 {
         System.out.println(Arrays.toString(massiv));
 
         int maxim = 0;
-
         for (int i : massiv) {
             if (i > maxim) {
                 maxim = i;

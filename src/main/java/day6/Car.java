@@ -1,35 +1,20 @@
 package day6;
 
-import java.util.Scanner;
-
 public class Car {
-
-  private int yearBorn;
+    private int year;
     private String color;
-   private String model;
-    int yearDifference;
+    private String model;
 
-    public void info(){
-        System.out.println("Это Автомобиль");
-
+    public int getYear() {
+        return year;
     }
 
-    public int yearDifference(int yearDifference){
-                return Math.abs(yearBorn - yearDifference);
-            }
-
-    void getYearBorn() {
-        System.out.println(yearBorn);
-    }
-
-    public void setYearBorn(int yearBorn) {
-        this.yearBorn = yearBorn;
+    public void setYear(int year) {
+        this.year = year;
     }
 
     public String getColor() {
-
-        return color;
-
+                return color;
     }
 
     public void setColor(String color) {
@@ -37,10 +22,18 @@ public class Car {
     }
 
     public String getModel() {
-               return model;
+        return model;
     }
 
     public void setModel(String model) {
         this.model = model;
+    }
+
+    public void info(){
+        System.out.println("Это автомобиль");
+    }
+
+    public int yearDifference(int number){
+        return Math.abs(number - getYear());
     }
 }

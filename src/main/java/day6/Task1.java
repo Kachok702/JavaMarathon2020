@@ -2,15 +2,16 @@ package day6;
 
 public class Task1 {
     public static void main(String[] args) {
-Motorbike moto = new Motorbike(2017, "Black", "Yakhoma");
-    moto.info();
-    Car car = new Car();
-    car.setColor("White");
-    car.setModel("Ldaa");
-    car.setYearBorn(2020);
-    car.info();
-    System.out.println(moto.yearDifference(2025));
-    System.out.println(car.yearDifference(2025));
+Car Lastocka = new Car();
+Lastocka.setYear(2020);
+Lastocka.setColor("Black");
+Lastocka.setModel("Mazda CX-5");
+Motorbike FarshNaKolesach = new Motorbike("Yakhoma", "Red",2017);
+Lastocka.info();
+        System.out.println(Lastocka.yearDifference(2025));
+FarshNaKolesach.info();
+        System.out.println(FarshNaKolesach.yearDifference(2000));
+
     }
 
 }

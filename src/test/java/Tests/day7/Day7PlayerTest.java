@@ -1,18 +1,21 @@
 //package Tests.day7;
 //
 //import Tests.AbstractTest;
+//import com.sun.jdi.event.WatchpointEvent;
 //import day7.Player;
 //import org.junit.jupiter.api.BeforeEach;
 //import org.junit.jupiter.api.Test;
-//import org.laughingpanda.beaninject.Inject;
+////import org.laughingpanda.beaninject.Inject;
 //
 //import static org.junit.jupiter.api.Assertions.assertEquals;
 //
 //public class Day7PlayerTest extends AbstractTest {
 //
+//
+//
 //    @BeforeEach
 //    public void clear(){
-//        Inject.field("countPlayers").of(new Player(50)).with(0);
+//       //Inject.field("countPlayers").of(new Player(50)).with(0);
 //    }
 //
 //    @Test
