@@ -10,15 +10,11 @@ public class Circle extends Figure{
 
     @Override
     public double area() {
-        final double pi;
-        pi = Math.PI;
-        return pi * (Math.pow(radius, 2));
+                     return Math.PI * (Math.pow(radius, 2));
     }
 
     @Override
     public double perimeter() {
-        final double pi;
-        pi = Math.PI;
-        return (pi * 2 *  radius);
+              return (Math.PI * 2 *  radius);
     }
 }

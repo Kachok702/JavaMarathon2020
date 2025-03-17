@@ -14,6 +14,8 @@ Figure[] figures = {
         System.out.println(calculateRedPerimeter(figures));
         System.out.println(calculateRedArea(figures));
     }
+
+
     public static double calculateRedPerimeter(Figure[] figures){
        double result = 0;
         for (int i = 0; i < figures.length - 1;)
@@ -24,6 +26,7 @@ Figure[] figures = {
         else i++;
         return result;
     }
+
     public static double calculateRedArea(Figure[] figures){
         double result = 0;
         for (int i = 0; i < figures.length - 1;)

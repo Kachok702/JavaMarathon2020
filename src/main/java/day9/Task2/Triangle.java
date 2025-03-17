@@ -1,26 +1,24 @@
 package day9.Task2;
 
 public class Triangle extends Figure{
-    private double a1;
-    private double a2;
-    private double a3;
+    private double a, b, c;
 
-    public Triangle(double a1, double a2, double a3, String color) {
+    public Triangle(double a, double b, double c, String color) {
         super(color);
-        this.a1 = a1;
-        this.a2 = a2;
-        this.a3 = a3;
+        this.a = this.a;
+        this.b = b;
+        this.c = c;
     }
 
     @Override
     public double area() {
-        double y = (a1 + a2 + a3)/2;
-              double x = Math.sqrt(y * (y - a1) * (y - a2) *(y - a3));
+        double y = (a + b + c) / 2;
+              double x = Math.sqrt(y * (y - a) * (y - b) *(y - c));
         return x;
     }
 
     @Override
     public double perimeter() {
-        return (a1 + a2 + a3);
+        return (a + b + c);
     }
 }
