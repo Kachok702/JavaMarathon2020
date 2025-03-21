@@ -1,17 +1,20 @@
 package day14;
 
 public class Person {
-    private String name;
-    private int year;
+  private int age;
+  private String name;
 
-    public Person(String name, int year) {
+    public Person( String name,int age) {
+        this.age = age;
         this.name = name;
-        this.year = year;
     }
 
-    @Override
-    public String toString() {
-        return "{name='" + name + "', year=" + year + "}";
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
     }
 
     public String getName() {
@@ -22,11 +25,8 @@ public class Person {
         this.name = name;
     }
 
-    public int getAge() {
-        return year;
-    }
-
-    public void setAge(int year) {
-        this.year = year;
+    @Override
+    public String toString() {
+        return "{name='" + name + "', " + "year=" + age + "}";
     }
 }

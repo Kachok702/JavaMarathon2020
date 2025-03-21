@@ -7,53 +7,32 @@
     <list default="true" id="cd7a5dca-445c-4dcd-be2f-0148e565ff8c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day11/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day11/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day12/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day12/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day12/task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12/task3/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day12/task4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12/task4/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day12/task5/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12/task5/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day13/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day13/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day14/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day14/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/day14/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day14/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/day14/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day14/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/day14/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day14/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/day15/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day15/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/day16/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day16/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/day16/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day16/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day9/Task2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day9/Task2/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day9/Task2/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day9/Task2/Figure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day9/Task2/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day9/Task2/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day9/Task2/TestFigures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day9/Task2/TestFigures.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day9/Task2/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day9/Task2/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day11/Day11CourierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day11/Day11CourierTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day11/Day11PickerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day11/Day11PickerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day12/task3/Day12Task3MusicBandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day12/task3/Day12Task3MusicBandTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day12/task4/Day12Task4MusicBandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day12/task4/Day12Task4MusicBandTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day12/task5/Day12Task5MusicBandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day12/task5/Day12Task5MusicBandTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day13/Day13MessageDatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day13/Day13MessageDatabaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day13/Day13UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day13/Day13UserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day14/Day14Task1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day14/Day14Task1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day17/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day17/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day17/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day17/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day18/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day18/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day18/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day18/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/missing_shoes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/missing_shoes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day14/Day14Task2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day14/Day14Task2Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day14/Day14Task3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day14/Day14Task3Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day16/Day16Task1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day16/Day16Task1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day11/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day11/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day12/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day12/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day12/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day12/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day12/task3/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day12/task3/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day12/task4/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day12/task4/Task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day12/task5/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day12/task5/Task5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day13/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day13/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day17/Day17Task1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day17/Day17Task1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day17/Day17Task2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day17/Day17Task2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day14/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day14/Person.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/day14/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day14/Task1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/day14/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day14/Task2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/day14/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day14/Task3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/day15/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day15/Task1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/day16/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day16/Task1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/day16/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day16/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day9/Task2/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day9/Task2/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day9/Task2/Figure.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day9/Task2/Figure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day9/Task2/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day9/Task2/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day9/Task2/TestFigures.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day9/Task2/TestFigures.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day9/Task2/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day9/Task2/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/missing_shoes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/missing_shoes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +44,7 @@
       <list>
         <option value="Interface" />
         <option value="Exception" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -92,75 +72,80 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ExceptionInClose.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestFigures.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day11.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day14.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day15.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day16.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day2.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day3.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day3.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day5.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day5.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day6.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day7.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day7.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day9.Task1.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.testova.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day11CourierTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day11PickerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day12Task3MusicBandTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day12Task4MusicBandTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day12Task5MusicBandTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day13MessageDatabaseTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day13UserTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day14Task1Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day14Task2Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day14Task2Test.fileNotFound.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day14Task2Test.normal.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day14Task3Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day14Task3Test.normal.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day16Task1Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day1Test.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day1Test.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day1Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day2Task1Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day2Task2Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day2Task3Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day2Task4Test.Five.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day2Task4Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day3Task1Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day3Task2Test.ShouldWorkProperly.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day3Task2Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day3Task3Test.ShouldWorkProperly.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day3Task3Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day6AirplaneTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day7AirplaneTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day7PlayerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day8AirplaneTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Day9TestFiguresTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Tests.day2 in JavaMarathon2020.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Tests.day3 in JavaMarathon2020.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Tests.day9.Task1 in JavaMarathon2020.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/marse/IdeaProjects/massiv/src/maxaea.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ExceptionInClose.executor": "Debug",
+    "Application.Task1.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.Task4.executor": "Run",
+    "Application.Task5.executor": "Run",
+    "Application.Task6.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestFigures.executor": "Run",
+    "Application.day11.Task1.executor": "Run",
+    "Application.day14.Task1.executor": "Run",
+    "Application.day15.Task1.executor": "Run",
+    "Application.day16.Task1.executor": "Run",
+    "Application.day16.Task2.executor": "Run",
+    "Application.day18.Task1.executor": "Run",
+    "Application.day18.Task2.executor": "Run",
+    "Application.day2.Task1.executor": "Run",
+    "Application.day3.Task1.executor": "Run",
+    "Application.day3.Task2.executor": "Run",
+    "Application.day5.Task1.executor": "Run",
+    "Application.day5.Task2.executor": "Run",
+    "Application.day6.Task2.executor": "Run",
+    "Application.day7.Task1.executor": "Run",
+    "Application.day7.Task2.executor": "Run",
+    "Application.day9.Task1.Task1.executor": "Run",
+    "Application.testova.executor": "Run",
+    "JUnit.Day11CourierTest.executor": "Run",
+    "JUnit.Day11PickerTest.executor": "Run",
+    "JUnit.Day12Task3MusicBandTest.executor": "Run",
+    "JUnit.Day12Task4MusicBandTest.executor": "Run",
+    "JUnit.Day12Task5MusicBandTest.executor": "Run",
+    "JUnit.Day13MessageDatabaseTest.executor": "Run",
+    "JUnit.Day13UserTest.executor": "Run",
+    "JUnit.Day14Task1Test.executor": "Run",
+    "JUnit.Day14Task2Test.executor": "Run",
+    "JUnit.Day14Task2Test.fileNotFound.executor": "Run",
+    "JUnit.Day14Task2Test.normal.executor": "Run",
+    "JUnit.Day14Task3Test.executor": "Run",
+    "JUnit.Day14Task3Test.normal.executor": "Run",
+    "JUnit.Day16Task1Test.executor": "Run",
+    "JUnit.Day17Task1Test.executor": "Run",
+    "JUnit.Day17Task2Test.executor": "Run",
+    "JUnit.Day1Test.Task1.executor": "Run",
+    "JUnit.Day1Test.Task2.executor": "Run",
+    "JUnit.Day1Test.executor": "Run",
+    "JUnit.Day2Task1Test.executor": "Run",
+    "JUnit.Day2Task2Test.executor": "Run",
+    "JUnit.Day2Task3Test.executor": "Run",
+    "JUnit.Day2Task4Test.Five.executor": "Run",
+    "JUnit.Day2Task4Test.executor": "Run",
+    "JUnit.Day3Task1Test.executor": "Run",
+    "JUnit.Day3Task2Test.ShouldWorkProperly.executor": "Run",
+    "JUnit.Day3Task2Test.executor": "Run",
+    "JUnit.Day3Task3Test.ShouldWorkProperly.executor": "Run",
+    "JUnit.Day3Task3Test.executor": "Run",
+    "JUnit.Day6AirplaneTest.executor": "Run",
+    "JUnit.Day7AirplaneTest.executor": "Run",
+    "JUnit.Day7PlayerTest.executor": "Run",
+    "JUnit.Day8AirplaneTest.executor": "Run",
+    "JUnit.Day9TestFiguresTest.executor": "Run",
+    "JUnit.Tests.day2 in JavaMarathon2020.executor": "Run",
+    "JUnit.Tests.day3 in JavaMarathon2020.executor": "Run",
+    "JUnit.Tests.day9.Task1 in JavaMarathon2020.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/marse/IdeaProjects/massiv/src/maxaea.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\marse\OneDrive\Рабочий стол\JavaM2\JavaMarathon2020\src\main\java\day6" />
@@ -176,13 +161,13 @@
       <recent name="day6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.day16.Task2">
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day14.Task3" />
+  <component name="RunManager" selected="Application.day18.Task2">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17.Task1" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14.*" />
+          <option name="PATTERN" value="day17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day16.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day16.Task2" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17.Task2" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16.*" />
+          <option name="PATTERN" value="day17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,47 +188,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day14Task3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="day18.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.Task1" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.day14.*" />
+          <option name="PATTERN" value="day18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.day14" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day14.Day14Task3Test" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day14Task3Test.normal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="day18.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.Task2" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.day14.*" />
+          <option name="PATTERN" value="day18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.day14" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day14.Day14Task3Test" />
-      <option name="METHOD_NAME" value="normal" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day16Task1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day17Task2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.day16.*" />
+          <option name="PATTERN" value="Tests.day17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.day16" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day16.Day16Task1Test" />
+      <option name="PACKAGE_NAME" value="Tests.day17" />
+      <option name="MAIN_CLASS_NAME" value="Tests.day17.Day17Task2Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -251,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.day16.Task2" />
-        <item itemvalue="JUnit.Day16Task1Test" />
-        <item itemvalue="JUnit.Day14Task3Test.normal" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="JUnit.Day14Task3Test" />
+        <item itemvalue="Application.day18.Task2" />
+        <item itemvalue="Application.day18.Task1" />
+        <item itemvalue="JUnit.Day17Task2Test" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -302,11 +282,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/day6/Task3.java</url>
           <line>4</line>
           <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/day14/Task2.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task2Test.java</url>

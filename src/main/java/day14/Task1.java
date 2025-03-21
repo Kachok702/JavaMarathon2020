@@ -7,30 +7,32 @@ import java.util.Scanner;
 public class Task1 {
     public static void main(String[] args) {
         printSumDigits(new File("Test.txt"));
-
     }
 
-   public static void printSumDigits(File file) {
-
-        File x = new File(String.valueOf(file));
+    public static void printSumDigits(File file) {
+        File inputFile = new File(String.valueOf(file));
         try {
-            Scanner scanner = new Scanner(x);
+            Scanner scanner = new Scanner(inputFile);
 
             String line = scanner.nextLine();
-            String[] numbers = line.split(" ");
+            String[] numberString = line.split(" ");
 
-            if (numbers.length != 10)
+            if (numberString.length != 10) {
                 throw new NumberNotTen();
+            }
 
-            int sum = 0;
+            int summa = 0;
+            for (String number : numberString) {
+                summa += Integer.parseInt(number);
+            }
 
-            for (String number : numbers)
-                sum +=Integer.parseInt(number);
-            System.out.println(sum);
+            System.out.println(summa);
+            scanner.close();
+
         } catch (FileNotFoundException e) {
             System.out.println("Файл не найден");
         } catch (NumberNotTen e) {
-            System.out.println("Неверный файл");
+            System.out.println("Некорректный входной файл");
         }
     }
 }

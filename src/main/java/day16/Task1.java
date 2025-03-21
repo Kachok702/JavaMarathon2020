@@ -1,7 +1,6 @@
 package day16;
 
 
-
 import java.io.File;
 import java.io.FileNotFoundException;
 
@@ -9,34 +8,28 @@ import java.util.Scanner;
 
 public class Task1 {
     public static void main(String[] args) {
-
-
         printResult(new File("Test.txt"));
-
-
     }
 
     public static void printResult(File file) {
-        File x = new File(String.valueOf(file));
-        try {
-            Scanner scanner = new Scanner(x);
+        File file1 = new File(String.valueOf(file));
 
-            String line = scanner.nextLine();
-            String[] numbers = line.split(" ");
-
-            double middle = 0;
+        try (Scanner scanner = new Scanner(file1)) {
+            double result1 = 0;
+            String[] line = scanner.nextLine().split(" ");
             int count = 0;
 
-            for (String number : numbers) {
+            for (String number : line) {
+                result1 += Double.parseDouble(number);
                 count++;
-                middle += Integer.parseInt(number);
             }
-            middle = (double) middle / count;
-            double middle2 = middle;
-            String s = String.format("%.3f", middle2);
-            System.out.print(middle + " --> " + s);
+
+            result1 /= count;
+            String result2 = String.format("%.3f", result1);
+            System.out.println(result1 + " --> " + result2);
+
         } catch (FileNotFoundException e) {
-            System.out.println("Файл не найден");
+            throw new RuntimeException(e);
         }
     }
 }

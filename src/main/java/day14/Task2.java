@@ -10,32 +10,34 @@ import java.util.Scanner;
 
 public class Task2 {
     public static void main(String[] args) {
-        System.out.println(parseFileToStringList(new File("people.txt")));
-
+        System.out.println(parseFileToStringList());
     }
 
-    public static List<String> parseFileToStringList(File x) {
-        List<String> text = new ArrayList<>();
-       File file = new File(String.valueOf(x));
+    public static List<String> parseFileToStringList(){
+       File file = new File("people.txt");
+        List<String> info = new ArrayList<>();
         try {
             Scanner scanner = new Scanner(file);
 
-            while (scanner.hasNextLine())
-                text.add(scanner.nextLine());
+            while (scanner.hasNextLine()){
+                String nameAndAge = scanner.nextLine();
+                String[] person = nameAndAge.split(" ");
 
-            for (String age : text) {
-                String bb = age.substring(age.indexOf(' ') + 1);
-                if (Integer.parseInt(bb) < 0) {
-                    throw new NumberNotTen();
+                if (Integer.parseInt(person[1]) <= 0){
+                    throw new IllegalArgumentException();
                 }
+               info.add(nameAndAge);
             }
-            return text;
-        } catch (NumberNotTen e) {
-            text.clear();
-            System.out.println("Некорректный входной файл");
+
+            scanner.close();
+            return info;
         } catch (FileNotFoundException e) {
             System.out.println("Файл не найден");
+        } catch (IllegalArgumentException e){
+            System.out.println("Некорректный входной файл");
         }
-        return null;
+
+return null;
     }
+
 }

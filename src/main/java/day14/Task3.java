@@ -8,34 +8,33 @@ import java.util.Scanner;
 
 public class Task3 {
     public static void main(String[] args) {
-        System.out.println(parseFileToObjList(new File("people.txt")));
+        System.out.println(parseFileToObjectList());
     }
 
-
-    public static List<Person> parseFileToObjList(File x) {
-        List<Person> text = new ArrayList<>();
-        File file = new File(String.valueOf(x));
-
+    static List<Person> parseFileToObjectList() {
+        List<Person> person = new ArrayList<>();
+        File file = new File("people.txt");
         try {
             Scanner scanner = new Scanner(file);
 
             while (scanner.hasNextLine()) {
-                String line = scanner.nextLine();
+                String nameAndAge = scanner.nextLine();
+                String[] human = nameAndAge.split(" ");
 
-                String[] person = line.split(" ");
-                if (Integer.parseInt(person[1]) < 0) {
-                    throw new NumberNotTen();
+                if (Integer.parseInt(human[1]) <= 0){
+                    throw new IllegalArgumentException();
                 }
-
-                Person currentPerson = new Person(person[0], Integer.parseInt(person[1]));
-                text.add(currentPerson);
+                Person bb = new Person(human[0], Integer.parseInt(human[1]));
+                person.add(bb);
             }
-            return text;
+
+            return person;
         } catch (FileNotFoundException e) {
-            System.out.println("Файл не найден");
-        } catch (NumberNotTen e) {
+            System.out.println("Файл не найден");;
+        }
+        catch (IllegalArgumentException e){
             System.out.println("Некорректный входной файл");
         }
-        return null;
+       return  null;
     }
 }
